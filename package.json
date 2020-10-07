@@ -1,0 +1,25 @@
+{
+  "name": "do-crypt",
+  "version": "1.0.0",
+  "description": "library for crypt your sensitive data",
+  "main": "src/do-crypt.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pariwatram/do-crypt.git"
+  },
+  "keywords": [
+    "npm",
+    "crypt",
+    "docrypt",
+    "do crypt",
+    "do-crypt"
+  ],
+  "author": "pariwatram",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pariwatram/do-crypt/issuess"
+  },
+  "homepage": "https://github.com/pariwatram/do-crypt/blob/master/README.md",
+  "devDependencies": {}
+}
